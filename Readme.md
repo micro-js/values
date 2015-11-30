@@ -17,15 +17,16 @@ Get the array of values for an object.
 ```js
 var values = require('@micro-js/values')
 
+values({1: 1, 2: 2}) // [1, 2]
 ```
 
 ## API
 
-### values(arg)
+### values(obj)
 
-- `arg` -
+- `obj` - object to convert
 
-**Returns:**
+**Returns:** values in `obj`
 
 ## License
 
