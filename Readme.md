@@ -10,12 +10,12 @@ Get the array of values for an object.
 
 ## Installation
 
-    $ npm install @micro-js/values
+    $ npm install @f/values
 
 ## Usage
 
 ```js
-var values = require('@micro-js/values')
+var values = require('@f/values')
 
 values({1: 1, 2: 2}) // [1, 2]
 ```
@@ -38,5 +38,5 @@ MIT
 [git-url]: https://github.com/micro-js/values
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/values.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/values
+[npm-image]: https://img.shields.io/npm/v/@f/values.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/values
